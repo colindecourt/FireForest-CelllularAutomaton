@@ -9,7 +9,7 @@
 
 ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/gif/(40%2C%2040)Gif-2020-23-12-21-23-36.gif)
 
-The code can be execute by download the repository and run the following Jupyter Notebook : [fire-forest.ipynb] [source](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/fire-forest.ipynb) |
+The code can be execute by download the repository and run the following Jupyter Notebook : [fire-forest.ipynb (https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/fire-forest.ipynb)
 
 
 ## Description

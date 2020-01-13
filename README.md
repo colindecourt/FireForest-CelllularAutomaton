@@ -35,9 +35,13 @@ The second notebook called [percolation-fire-forest.ipynb](https://github.com/co
 
 ##### Tree type burning simulation 
 
+ 50x50 grid - 70% of trees
+ 
+![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/percolation_data/gif/(100%2C%20100)Gif-2020-28-13-11-28-47.gif)
 
 ##### Impact of percolation threshold
 
+![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/percolation_data/real_burned_tree_density.png) ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/percolation_data/real_remain_tree_density.png)
 
 
 
@@ -67,7 +71,13 @@ The second notebook called [tree-density-fire-forest.ipynb](https://github.com/c
 
 ##### Some plots...
 
+![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/burned_trees_grid.png) ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/remain_trees_grid.png)
+
 
 ##### Australia burning simulation...
 
+![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/gif/testGif-2020-58-13-09-58-34.gif) 
 
+##### Some plots
+
+![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/burned_trees_grid.png) ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/remain_trees_grid.png)

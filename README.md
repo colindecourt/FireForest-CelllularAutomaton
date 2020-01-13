@@ -62,7 +62,13 @@ The second notebook called [tree-density-fire-forest.ipynb](https://github.com/c
    - ▶️️ A step function which one propagation step. Get the actual state and output a new state depending on transition rules. 
    - ▶️️ Main cell : initialization of the forest, launch fire forest with different grid sizes until there is no more burning tree.
    - ▶️️ Data analyse : some plots to see impact of probability of burning...
-   - ▶️️ **Pray for Australia** section : this is the same simulation but adapted to Australia forest map. Each type of forest have a density and will burn depending on it. 
+   - ▶️️ **Pray for Australia** section : this is the same simulation but adapted to Australia forest map. Each type of forest have a density and will burn depending on it. For this simulation different type of forest exist :
+          * Woodland : d = 0.75
+          * Herbland : d = 0.1
+          * Open forest : d = 0.55
+          * Closed forest : d = 0.35
+          * Desert : can't burn
+          * Ocean : can't burn
    
 
 ##### Tree type burning simulation 

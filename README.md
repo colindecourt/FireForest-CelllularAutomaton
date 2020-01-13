@@ -71,7 +71,7 @@ The second notebook called [tree-density-fire-forest.ipynb](https://github.com/c
 
 ##### Some plots...
 
-![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/burned_trees_grid.png) ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/remain_trees_grid.png)
+![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/remain_burned_grid.png) ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/remain_trees_grid.png)
 
 
 ##### Australia burning simulation...
@@ -80,4 +80,4 @@ The second notebook called [tree-density-fire-forest.ipynb](https://github.com/c
 
 ##### Some plots
 
-![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/burned_trees_grid.png) ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/remain_trees_grid.png)
+![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/australia_burned.png) ![](https://github.com/colindecourt/FireForest-CelllularAutomaton/blob/master/tree_type_data/australia_fire_type.png)
